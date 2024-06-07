@@ -1,0 +1,21 @@
+.project-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1rem;
+    margin: 1rem 0;
+  }
+  
+  .project-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .project-card h3 {
+    margin: 0.5rem 0;
+  }
+  
+  .project-card p {
+    color: #555;
+  }
+  

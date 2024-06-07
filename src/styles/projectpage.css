@@ -1,0 +1,11 @@
+.projects-page {
+    max-width: 1000px;
+    margin: 2rem auto;
+    padding: 1rem;
+  }
+  
+  .projects-page h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
